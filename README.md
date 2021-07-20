@@ -20,9 +20,7 @@
 <br/>
 Construction Process_Base<br/>
 <br/>
-<br/>
 ![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Base.gif)
-<br/>
 <br/>
 Construction Process_Structure<br/>
 <br/>
