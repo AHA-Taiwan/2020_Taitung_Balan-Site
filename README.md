@@ -19,11 +19,11 @@
 <br/>
 <br/>
 Construction Process_Ba
-![](https://imgur.com/LcQApuF)
+![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Base.gif)
 <br/>
 <br/>
 Construction Process_Structure
-![](https://imgur.com/c4o15mL)
+![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Structure.gif)
 <br/>
 <br/>
 ***
