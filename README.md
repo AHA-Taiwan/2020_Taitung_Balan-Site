@@ -18,13 +18,12 @@
 ![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/BS_SketchFab%20Model.png)
 <br/>
 <br/>
-Construction Process_Base<br/>
+施工步驟＿基礎（Construction Process_Base）<br/>
 <br/>
 ![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Base.gif)
 <br/>
 <br/>
-Construction Process_Structure<br/>
-<br/>
+施工步驟＿樑柱結構（Construction Process_Structure）<br/>
 <br/>
 ![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Structure.gif)
 <br/>
