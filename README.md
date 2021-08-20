@@ -22,6 +22,7 @@
 * 主要建材：台灣杉 [15 x 4 x 360cm]、黃檜木 [15 x 4.2 x 250cm]、三分三六夾板 [190 x 180 x 0.9 cm]、L 型鐵件 [6.5 x 6.5 x 0.1 cm]<br/>
   不鏽鋼牙條 M10 、螺帽、袋帽和墊片等五金系統。
   <br/>
+  <br/>
 * 數位模型［整體木構3D］：https://skfb.ly/oprwT
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/BS_Sketchfab_Model.png)
