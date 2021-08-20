@@ -12,9 +12,9 @@
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_BalanSite/blob/master/001.%20Blueprint/README%20IMAGE/BS_GMap.png)
 
-* 台東縣月平均氣溫<br/>
+* 台東縣氣候相關數據圖表：<br/>
 
-![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Montly%20Temperature.001.png)
+![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Weather%20All.jpg)
 
 ***
 ## 專案介紹：<br/>
