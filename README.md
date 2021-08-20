@@ -11,6 +11,11 @@
 * Google Map 位置：https://goo.gl/maps/Q4HmF7Ct91mYNcTV6  <br/>
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_BalanSite/blob/master/001.%20Blueprint/README%20IMAGE/BS_GMap.png)
+
+* 台東縣月平均氣溫<br/>
+
+![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Montly%20Temperature.001.png)
+
 ***
 ## 專案介紹：<br/>
 * 主要建材：台灣杉 [15 x 4 x 360cm]、黃檜木 [15 x 4.2 x 250cm]、三分三六夾板 [190 x 180 x 0.9 cm]、L型鐵件 [6.5 x 6.5 x 0.1 cm]、不鏽鋼牙條 M10 、螺帽、袋帽和墊片等五金系統。
