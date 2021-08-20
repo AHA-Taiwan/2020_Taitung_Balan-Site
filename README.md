@@ -10,7 +10,7 @@
 * 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2021-07-19 <br/>
 
 * 台東縣氣候月平均氣溫、月平均降雨量、風速與相對濕度數據圖表<br/>
- （取自交通部中央氣象局，統計期間為 1991-2020年）：<br/>
+ （取自交通部中央氣象局，統計期間為 1991-2020年）<br/>
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Weather_All.jpg)
 
@@ -22,8 +22,9 @@
 ## 專案介紹：<br/>
 * 主要建材：
   <br/>
+  <br/>
   台灣杉 [ 15 x 4 x 360 cm ]、黃檜木 [ 15 x 4.2 x 250 cm ]、三分三六夾板 [ 190 x 180 x 0.9 cm ] 和 L 型鐵件 [ 6.5 x 6.5 x 0.1 cm ]<br/>
-  不鏽鋼牙條 M10 、螺帽、袋帽和墊片等五金系統
+  以及不鏽鋼牙條 M10 、螺帽、袋帽和墊片等五金系統
   <br/>
   <br/>
 * 數位模型［整體木構3D］：https://skfb.ly/oprwT
