@@ -9,7 +9,8 @@
 * 基地環境氣象資料：https://www.cwb.gov.tw/V8/C/W/County/County.html?CID=10014 <br/>
 * 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2021-07-19 <br/>
 
-* 台東縣氣候月平均氣溫、月平均降雨量、風速與相對濕度數據圖表<br/>（取自交通部中央氣象局，統計期間為 1991-2020年）<br/>
+* 台東縣氣候月平均氣溫、月平均降雨量、風速與相對濕度數據圖表<br/>
+ （取自交通部中央氣象局，統計期間為 1991-2020年）<br/>
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Weather_All.jpg)
 
