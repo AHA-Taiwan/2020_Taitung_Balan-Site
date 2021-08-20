@@ -15,6 +15,11 @@ https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewM
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Weather_All.jpg)
 
+* 台東縣颱風與焚風<br/>
+ （取自交通部中央氣象局）<br/>
+
+![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Typhoon%2BWind.png)
+
 * Google Map 位置：https://goo.gl/maps/Q4HmF7Ct91mYNcTV6  <br/>
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_BalanSite/blob/master/001.%20Blueprint/README%20IMAGE/BS_GMap.png)
