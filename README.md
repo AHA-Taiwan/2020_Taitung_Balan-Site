@@ -28,7 +28,7 @@ https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewM
   以及不鏽鋼牙條 M10 、螺帽、袋帽和墊片等五金系統
   <br/>
   <br/>
-* 數位模型［ 整體木構3D ］：https://skfb.ly/oprwT
+* 數位模型［ 整體木構 3D ］：https://skfb.ly/oprwT
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/BS_Sketchfab_Model.png)
 <br/>
