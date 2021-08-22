@@ -37,7 +37,7 @@ https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewM
 ![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Base.gif)
 <br/>
 <br/>
-施工步驟＿樑柱結構（Construction Process_Structure）<br/>
+施工步驟＿樑柱結構（Construction Process_Post and Beam Structure）<br/>
 <br/>
 ![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Structure.gif)
 <br/>
