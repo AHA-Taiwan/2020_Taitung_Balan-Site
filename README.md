@@ -1,5 +1,4 @@
-# Balan Site
-# Taitung
+# 2020_Taitung_Balan Site
 
 >Humanitarian Architecture in Taitung<br/>
 >
