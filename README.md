@@ -25,11 +25,14 @@ https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewM
   <br/>
   <br/>
   台灣杉 [ 15 x 4 x 360 cm ]<br/>
-  黃檜木 [ 15 x 4.2 x 250 cm ]<br/>
-  三分三六夾板 [ 190 x 180 x 0.9 cm ]<br/>
-  L 型鐵件 [ 6.5 x 6.5 x 0.1 cm ]<br/>
-  以及不鏽鋼牙條 M10 、螺帽、袋帽和墊片等五金系統。<br/>
   <br/>
+  黃檜木 [ 15 x 4.2 x 250 cm ]<br/>
+  <br/>
+  三分三六夾板 [ 190 x 180 x 0.9 cm ]<br/>
+  <br/>
+  L 型鐵件 [ 6.5 x 6.5 x 0.1 cm ]<br/>
+  <br/>
+  以及不鏽鋼牙條 M10 、螺帽、袋帽和墊片等五金系統。<br/>
   <br/>
 * 數位模型［ 整體木構 3D ］：https://skfb.ly/oprwT
 
