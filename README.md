@@ -1,5 +1,5 @@
 # 2020｜台東巴蘭遺址｜望曦
-## _Balan Site, Taitung, Taiwan_
+## _Balan Site_, Taitung, Taiwan
 
 >Humanitarian Architecture in Taitung<br/>
 >
